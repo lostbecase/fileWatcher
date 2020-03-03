@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\bin\Release\fileWatcherApp.exe
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\bin\Release\fileWatcherApp.pdb
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\obj\Release\fileWatcherApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\obj\Release\fileWatcherApp.Form1.resources
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\obj\Release\fileWatcherApp.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\obj\Release\fileWatcherApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\obj\Release\fileWatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\obj\Release\fileWatcherApp.exe
+C:\Users\Administrator\Source\Repos\fileWatcherApp\fileWatcherApp\obj\Release\fileWatcherApp.pdb
